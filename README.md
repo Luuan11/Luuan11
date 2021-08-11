@@ -2,7 +2,7 @@
 
 - Hi, I’m @Luuan11
 - Welcome to me README.md 
-- Im from Brasil 🇧🇷 (YES, Brasil with "S" because I'm brazilian)
+- Im from Brazil 🇧🇷
 - Im here for create
 - Just here for try my best
 - ✨ Thanks for read ✨ 
