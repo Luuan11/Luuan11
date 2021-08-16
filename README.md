@@ -1,9 +1,18 @@
-![Animated GIF-downsized_large](https://user-images.githubusercontent.com/79935555/129048505-0cfc4be2-ed28-4029-b214-c2d4c5dc21cf.gif)
-- ![](https://komarev.com/ghpvc/?username=luuan11&style=flat-square&color=980fe3) ![](https://badges.pufler.dev/visits/Luuan11/Luuan11) 
+<h1> Hii, Im Luuan11 ❤️ </h1>
+<img src="Luuan.gif"> 
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luuan11&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luuan11&layout=compact&langs_count=7&theme=dark" />
+</div>
+<div>
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=Luuan11&color=980fe3" />
+ <img src="https://badges.pufler.dev/visits/Luuan11/Luuan11" /> 
+ <img src="https://badges.pufler.dev/repos/Luuan11"/> 
+</p>
+</div>
+<hr>
 
-- Hi, I’m @Luuan11
-- Welcome to me README.md 
-- Im from Brazil 🇧🇷
-- Im here for create
-- Just here for try my best
-- ✨ Thanks for read ✨ 
+ 
+
