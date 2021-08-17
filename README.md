@@ -9,7 +9,7 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Luuan11&color=980fe3" />
  <img src="https://badges.pufler.dev/visits/Luuan11/Luuan11" /> 
- <img src="https://badges.pufler.dev/repos/Luuan11"/> 
+ <img src="https://badges.pufler.dev/repos/Luuan11" /> 
 </p>
 </div>
 <hr>
