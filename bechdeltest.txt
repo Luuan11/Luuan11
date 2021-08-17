@@ -2,7 +2,7 @@
 
 - A função do site é bem executada.
 
-2) Você encontrou algum fime interessante que passe nesse teste? Informe.
+2) Você encontrou algum filme interessante que passe nesse teste? Informe.
 
 - Encontrei um filme interessante que passou nesse teste, se chamar Alita: Angel Battle.
 
