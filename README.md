@@ -1,8 +1,8 @@
 ## Hii, I'm Luuan11 ❤️
-- Welcome to my profile
-- I'm from Brazil
-- I love programmer 
-- Trying my best 
+- Welcome to my profile 🌟
+- I'm from Brazil 🇧🇷
+- I love programmer 🖥️
+- Trying my best 🔥
 
 <div>
   <a href="https://github.com/Luuan11">
