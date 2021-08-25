@@ -1,7 +1,7 @@
 ## Hii, I'm Luuan11 ❤️
 - Welcome to my profile 🌟
 - I'm from Brazil 🇧🇷
-- I love programmer 🖥️
+- I love programming 🖥️
 - Trying my best 🔥
 
 <div>
