@@ -2,7 +2,7 @@
 - 🌎 Bem vindo ao meu perfil Github.
 - 🖥️ Estudante de <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.
 - 💙 Estudante no Instituto Proa.
-- 
+
 
 ### 💌 Caso queira me encontrar :
 
