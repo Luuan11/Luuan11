@@ -1,6 +1,6 @@
 ### Olá, meu nome é Luan Fernando.
 - 🌎 Bem vindo ao meu perfil Github.
-- 🖥️ Estudante de <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.
+- 🖥️ Sou Estudante de <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>.
 
 
 ### 💌 Caso queira me encontrar :
