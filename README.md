@@ -3,7 +3,7 @@
 - 🖥️ Sou Estudante de <strong>JavaScript</strong> e <strong>TypeScript</strong>.
 - </> Em buscar de me tornar Desenvolvedor Front-end.
 
-### Habilidades: 
+### Habilidades / Tecnologias: 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,scss,react,tailwind,figma)
 
 ### 💌 Caso queira me encontrar :
