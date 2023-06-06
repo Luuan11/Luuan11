@@ -1,6 +1,6 @@
 ### Olá, meu nome é Luan Fernando.
 - 🌎 Bem vindo ao meu perfil Github!
-- 🖥️ Sou Estudante de <strong>JavaScript</strong> e <strong>TypeScript</strong>.
+- 🖥️ Estudando atualmente <strong>React Js</strong>.
 - </> Em buscar de me tornar Desenvolvedor Front-end.
 
 ### Habilidades / Tecnologias: 
