@@ -1,13 +1,13 @@
 ### Olá, meu nome é Luan Fernando.
 - 🌎 Bem vindo ao meu perfil Github!
 - 🖥️ Estudando atualmente <strong>React Js</strong>.
-- 📚 Formado em <strong> Sistemas da Informação </strong>.
-- 💼 Desenvolvedor Front-end.
+- 📚 Formado em <strong>Sistemas da Informação</strong>.
+- 💼 Desenvolvedor <strong>SFront-end</strong>.
 
 ### Habilidades / Tecnologias: 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,scss,react,tailwind,figma)
 
-### 💌 Caso queira me encontrar : 
+### 💌 Caso queira entrar em contato : 
 
 <p align="left">
 
