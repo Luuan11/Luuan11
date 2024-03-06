@@ -2,7 +2,7 @@
 - 🌎 Bem vindo ao meu perfil Github!
 - 🖥️ Estudando atualmente <strong>React Js</strong>.
 - 📚 Formado em <strong>Sistemas da Informação</strong>.
-- 💼 Desenvolvedor <strong>Front-end</strong>.
+- 💼 Software Developer at MELI.
 
 ### Habilidades / Tecnologias: 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,scss,react,tailwind,figma)
