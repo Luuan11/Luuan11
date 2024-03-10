@@ -1,6 +1,6 @@
 ### Olá, meu nome é Luan Fernando.
 - 🌎 Bem vindo ao meu perfil Github!
-- 🖥️ Estudando atualmente <strong>React Js</strong>.
+- 🖥️ Estudando atualmente <strong>Java</strong>.
 - 📚 Formado em <strong>Sistemas da Informação</strong>.
 - 💼 Software Developer at MELI.
 
