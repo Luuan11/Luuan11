@@ -5,7 +5,7 @@
 - 💼 Software Developer at MELI.
 
 ### Habilidades / Tecnologias: 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,scss,react,tailwind,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,git,scss,java,react,tailwind,figma,linux,vercel)
 
 ### 💌 Caso queira entrar em contato : 
 
