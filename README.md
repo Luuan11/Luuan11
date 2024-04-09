@@ -17,6 +17,6 @@
   <img src="https://img.shields.io/badge/-Email-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&" alt="Email">
  </a>
 
-<img width="" src="https://github-readme-stats.vercel.app/api?username=luuan11&theme=material-palenight&show_icons=true&count_private=true&include_all_commits=true&&rank_icon=github&hide=issues" alt="status" title="status"/> &nbsp; <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luuan11&&theme=material-palenight&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="languages" title="languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=luuan11&theme=material-palenight&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide=issues" alt="status" title="status"/>&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luuan11&theme=material-palenight&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="languages" title="languages"/>
 
 [comment]: <img src="Luuan.gif" height="160px"/> 
