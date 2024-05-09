@@ -2,7 +2,7 @@
 - 🌎 Bem vindo ao meu perfil Github!
 - 🖥️ Estudando atualmente <strong>Go</strong>.
 - 📚 Formado em <strong>Sistemas da Informação</strong>.
-- 💼 Software Developer at Mercado Livre.
+- 💼 Engenheiro de Software no Mercado Livre.
 
 ### Habilidades / Tecnologias: 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,go,git,scss,java,figma,react,tailwind,python,linux)
