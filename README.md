@@ -5,7 +5,10 @@
 - 💼 Engenheiro de Software no Mercado Livre.
 
 ### Habilidades / Tecnologias: 
-![My Skills](https://skillicons.dev/icons?i=js,ts,go,git,scss,java,figma,react,tailwind,python,linux)
+![My Skills](https://skillicons.dev/icons?i=js,ts,go,scss,java,figma,react,tailwind,python,linux)
+
+### Ferramentas:
+![My Tech](https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,notion)
 
 ### 💌 Caso queira entrar em contato : 
 
