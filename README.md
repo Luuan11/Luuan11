@@ -4,10 +4,10 @@
 - 📚 Formado em <strong>Sistemas da Informação</strong>.
 - 💼 Engenheiro de Software no Mercado Livre.
 
-### Habilidades / Tecnologias: 
+### Technologies : 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,go,scss,java,figma,react,tailwind,python,linux)
 
-### Ferramentas:
+### Tools :
 ![My Tech](https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,notion)
 
 ### 💌 Caso queira entrar em contato : 
