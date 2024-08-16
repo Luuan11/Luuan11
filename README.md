@@ -1,8 +1,8 @@
-### Olá, meu nome é Luan Fernando.
-- 🌎 Bem vindo ao meu perfil Github!
-- 🖥️ Estudando atualmente <strong>Go</strong>.
-- 📚 Formado em <strong>Sistemas da Informação</strong>.
-- 💼 Engenheiro de Software no Mercado Livre.
+### Hello, my name is Luan Fernando.
+- 🌎 Welcome to my Github profile!
+- 🖥️ Currently studying <strong>Go</strong>.
+- 📚 Graduated in <strong>Information Systems</strong>.
+- 💼Software Developer at Mercado Libre.
 
 ### Technologies : 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,go,scss,java,figma,react,tailwind,python,linux)
@@ -10,7 +10,7 @@
 ### Tools :
 ![My Tech](https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,notion)
 
-### 💌 Caso queira entrar em contato : 
+### 💌 If you want to get in touch : 
 
  <a href="https://www.linkedin.com/in/luan-fernando/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&" alt="LinkedIn">
