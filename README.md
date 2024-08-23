@@ -5,7 +5,7 @@
 - 💼Software Developer at Mercado Libre.
 
 ### Technologies : 
-![My Skills](https://skillicons.dev/icons?i=js,ts,go,scss,java,figma,react,tailwind,python,linux)
+![My Skills](https://skillicons.dev/icons?i=js,ts,go,scss,java,figma,react,tailwind,vite,python,linux)
 
 ### Tools :
 ![My Tech](https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,notion)
