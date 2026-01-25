@@ -1,24 +1,17 @@
 ### Hello, my name is Luan Fernando.
 - 🌎 Welcome to my Github profile!
-- 🖥️ Currently studying <strong>Go</strong>.
+- 🖥️ Currently studying **AWS**.
 - 📚 Graduated in <strong>Information Systems</strong>.
-- 💼Software Developer at Mercado Libre.
+- 💼 Software Developer at **Mercado Livre** (MCPs and AI Agents).
 
-### Technologies : 
-![My Skills](https://skillicons.dev/icons?i=js,ts,go,scss,java,figma,react,tailwind,vite,python)
+### Technologies
+![Tech](https://skillicons.dev/icons?i=js,ts,go,java,react,python)
 
-### Tools :
-![My Tech](https://skillicons.dev/icons?i=git,postman,github,vscode,idea,vercel,notion,linux)
+### Databases & Cloud
+![Cloud](https://skillicons.dev/icons?i=postgres,mysql,aws,mongodb)
 
-### 💌 If you want to get in touch : 
-
- <a href="https://www.linkedin.com/in/luan-fernando/" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&" alt="LinkedIn">
- </a>
-
- <a href="mailto:luanfernando118@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&" alt="Email">
- </a>
+### Tools & Productivity
+![Tools](https://skillicons.dev/icons?i=github,vscode,grafana,postman,jest,docker)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=luuan11&theme=dracula&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues" alt="status" title="status"/>&nbsp;
