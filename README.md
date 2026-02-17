@@ -11,7 +11,7 @@
 ![Cloud](https://skillicons.dev/icons?i=postgres,mysql,aws,mongodb)
 
 ### Tools & Productivity
-![Tools](https://skillicons.dev/icons?i=github,vscode,grafana,postman,jest,docker)
+![Tools](https://skillicons.dev/icons?i=github,vscode,grafana,jenkins,postman,docker)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=luuan11&theme=dracula&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues" alt="status" title="status"/>&nbsp;
